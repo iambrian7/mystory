@@ -17,3 +17,8 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### features
+- Simple website to tell my AA story
+- Src: bkc/projects2020/mystory
+- GitHub: 
