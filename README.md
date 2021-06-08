@@ -1,5 +1,5 @@
 # mystory
-
+ An example of a story I might write
 ## Project setup
 ```
 yarn install
